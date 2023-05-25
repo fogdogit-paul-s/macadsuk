@@ -26,7 +26,7 @@ Automation will Handle Drift:
 - Do I have insight into all the information I need?
 
 
-### Photos:
+### Slides:
 
 ![[image 15.jpg]]
 
