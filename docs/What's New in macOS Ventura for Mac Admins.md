@@ -11,29 +11,29 @@
 
 ### Slides:
 [Apple Platform Deployment – Apple Support (UK)](https://support.apple.com/en-gb/guide/deployment/welcome/web) 
-![[FdIT/MacAD UK/zAttachments/image 9.jpg]]
+![[image 9.jpg]]
 
 [Apple Platform Deployment – Now available in a locale near you! – macmule](https://macmule.com/2022/11/08/apple-platform-deployment-now-available-in-a-locale-near-you/) 
-![[FdIT/MacAD UK/zAttachments/image 10.jpg]]
+![[image 10.jpg]]
 
 
 [About software updates for Apple devices – Apple Support (UK)](https://support.apple.com/guide/deployment/depc4c80847a/1/web/1.0)
 
-![[FdIT/MacAD UK/zAttachments/image 11.jpg]]
+![[image 11.jpg]]
 
 
 
-![[FdIT/MacAD UK/zAttachments/image 12.jpg]] 
+![[image 12.jpg]] 
 
 **Lockdown Mode**
 Check out Apple website for info 
 
 Login Items 
 [Example MDM profile for disabling BTM notifications · GitHub](https://gist.github.com/n8felton/f0530dd54e17b59cfe6710c853dcc8a1)
-![[FdIT/MacAD UK/zAttachments/image 13.jpg]]
+![[image 13.jpg]]
 
 Declarative device mgmt - device informs MDM 
 
 Managed device attestation
 
-![[FdIT/MacAD UK/zAttachments/image 14.jpg]]
+![[image 14.jpg]]
