@@ -13,7 +13,7 @@ Access management within ABM with managed Apple ID
 
 This allows you to stop people creating personal Apple IDs with their work emails
 
-### Notes
+### Notes:
 ##### User enrolment:
 - Separates work and personal
 - BYOD 
