@@ -1,4 +1,5 @@
-###### Paul Evans @ VMware
+###### Paul Evans, Product Line Manager for End-User Computing, VMware
+
 
 ### Key Takeaways:
 
