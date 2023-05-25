@@ -28,7 +28,7 @@ Automation will Handle Drift:
 
 ### Photos:
 
-![[/zAttachments/image 15.jpg]]
+![[image 15.jpg]]
 
 ![[image 1 1.jpg]]
 ![[image 2 1.jpg]]
@@ -41,12 +41,12 @@ Freestyle Orchestrator:
 
 ![[image 5 1.jpg]]
 
-![[FdIT/MacAD UK/zAttachments/image 6.jpg]]
+![[image 6.jpg]]
 
 DEAM
-![[FdIT/MacAD UK/zAttachments/image 7.jpg]]
+![[image 7.jpg]]
 
-![[FdIT/MacAD UK/zAttachments/image 8.jpg]]
+![[image 8.jpg]]
 
 
 ### Links:
