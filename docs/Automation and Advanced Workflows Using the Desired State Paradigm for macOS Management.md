@@ -28,7 +28,7 @@ Automation will Handle Drift:
 
 ### Photos:
 
-![[FdIT/MacAD UK/zAttachments/image 15.jpg]]
+![[/zAttachments/image 15.jpg]]
 
 ![[image 1 1.jpg]]
 ![[image 2 1.jpg]]
